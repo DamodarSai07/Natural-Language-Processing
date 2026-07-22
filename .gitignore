@@ -1,0 +1,162 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Extensions
+*.so
+*.pyd
+*.dll
+
+# Distribution / Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+env/
+ENV/
+.venv/
+nlp_env/
+myenv/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+.idea/
+
+# ==========================
+# Spyder
+# ==========================
+.spyproject/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+*.bak
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+*.env
+
+# ==========================
+# Python Cache
+# ==========================
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# ==========================
+# Coverage
+# ==========================
+.coverage
+coverage.xml
+htmlcov/
+
+# ==========================
+# Model Files
+# ==========================
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.joblib
+*.pickle
+*.pkl
+
+# ==========================
+# TensorBoard
+# ==========================
+runs/
+logs/
+
+# ==========================
+# Data Files
+# ==========================
+Datasets/
+datasets/
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.zip
+*.rar
+*.7z
+
+# Keep empty folders if needed
+!Datasets/.gitkeep
+
+# ==========================
+# Images (Optional)
+# ==========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Keep README images
+!assets/
+!assets/**
+
+# ==========================
+# NLTK Downloads (Optional)
+# ==========================
+nltk_data/
+
+# ==========================
+# Mac/Linux
+# ==========================
+.Trashes
+.fseventsd
+
+# ==========================
+# Windows
+# ==========================
+ehthumbs.db
