@@ -159,4 +159,8 @@ nltk_data/
 # ==========================
 # Windows
 # ==========================
+<<<<<<< HEAD
 ehthumbs.db
+=======
+ehthumbs.db
+>>>>>>> 363b0ac (Clean repository and apply .gitignore)
